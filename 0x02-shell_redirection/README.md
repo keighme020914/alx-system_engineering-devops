@@ -1,1 +1,1 @@
-0x02 shell l/O redirection
+0x02 l/O redirections
