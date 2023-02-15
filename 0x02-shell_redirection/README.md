@@ -1,1 +1,1 @@
-0x02 shell lO redirection and filters readme file
+0x02 shell l/O redirection
